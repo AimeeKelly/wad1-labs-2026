@@ -21,8 +21,13 @@
           "artist": "Beethoven"
         },
         {
-          "id": "96e9562c-91e0-4f16-9d75-087d7211755e",
-          "title": "New Sonata",
+          "id": "51f7343e-ac0f-46de-a959-ae637b65d264",
+          "title": "Piano Sonata No. 15",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "6e7725e1-3aaa-4773-a5c4-d53acb1b9967",
+          "title": "Piano Sonata No. 18",
           "artist": "Beethoven"
         }
       ]
@@ -54,6 +59,39 @@
       "title": "Beethoven Unfinished Symphonies",
       "rating": 0,
       "songs": []
+    },
+    {
+      "id": "cc2070c9-c8ea-437a-9cea-69f5e3d5e587",
+      "title": "Beethovens Best Titles",
+      "rating": 5,
+      "date": "2026-03-25T15:50:58.308Z",
+      "songs": [
+        {
+          "id": "9e535776-7580-4104-ab84-bc5b2ee8ff00",
+          "title": "Concerto 1",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "e66ae41c-b5f7-463c-af53-cd590024b803",
+          "title": "Concerto 2",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "7bda081d-8b5f-4332-9cfb-0f8d664764e4",
+          "title": "Concerto 3",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "c3bbf767-5014-4e57-9195-d42bd6fe3f49",
+          "title": "Concerto 4",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "a74c5de4-4471-4841-b182-d485dfe50651",
+          "title": "Concerto 5",
+          "artist": "Beethoven"
+        }
+      ]
     }
   ]
 }
