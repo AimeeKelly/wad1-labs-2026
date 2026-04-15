@@ -1,97 +1,52 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
-      "rating": 3,
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "06",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "51f7343e-ac0f-46de-a959-ae637b65d264",
-          "title": "Piano Sonata No. 15",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "6e7725e1-3aaa-4773-a5c4-d53acb1b9967",
-          "title": "Piano Sonata No. 18",
-          "artist": "Beethoven"
-        }
-      ]
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "e9a477c0-884a-4429-8917-097e65e2b75c",
+      "title": "marge's playlist",
+      "rating": 4,
+      "songs": [],
+      "date": "2026-04-15T14:43:03.389Z"
     },
     {
-      "id": "05",
-      "title": "Beethoven Concertos",
-      "rating": 2,
-      "songs": [
-        {
-          "id": "07",
-          "title": "Piano Concerto No. 1",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No2",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
-        }
-      ]
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "d9554a42-a88b-4328-aae7-3dc4db39adf5",
+      "title": "homer's playlist",
+      "rating": 1,
+      "songs": [],
+      "date": "2026-04-15T14:43:31.475Z"
     },
     {
-      "id": "03",
-      "title": "Beethoven Unfinished Symphonies",
-      "rating": 0,
-      "songs": []
-    },
-    {
-      "id": "cc2070c9-c8ea-437a-9cea-69f5e3d5e587",
-      "title": "Beethovens Best Titles",
+      "userid": "c5dfae5f-e438-431e-b830-85a7955e11c8",
+      "id": "39b10aa3-2f5e-46ec-8a8d-4efe3c7e7ec1",
+      "title": "Rock songs",
       "rating": 5,
-      "date": "2026-03-25T15:50:58.308Z",
-      "songs": [
-        {
-          "id": "9e535776-7580-4104-ab84-bc5b2ee8ff00",
-          "title": "Concerto 1",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "e66ae41c-b5f7-463c-af53-cd590024b803",
-          "title": "Concerto 2",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "7bda081d-8b5f-4332-9cfb-0f8d664764e4",
-          "title": "Concerto 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "c3bbf767-5014-4e57-9195-d42bd6fe3f49",
-          "title": "Concerto 4",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "a74c5de4-4471-4841-b182-d485dfe50651",
-          "title": "Concerto 5",
-          "artist": "Beethoven"
-        }
-      ]
+      "songs": [],
+      "date": "2026-04-15T14:45:07.727Z"
+    },
+    {
+      "userid": "c5dfae5f-e438-431e-b830-85a7955e11c8",
+      "id": "2d0aaa2a-20a9-4d22-8d91-f2ec94376e2f",
+      "title": "Jazzy Tunes",
+      "rating": 4,
+      "songs": [],
+      "date": "2026-04-15T14:45:16.556Z"
+    },
+    {
+      "userid": "c5dfae5f-e438-431e-b830-85a7955e11c8",
+      "id": "3b8eca4e-4608-4bf3-af5b-0408f2d61e92",
+      "title": "Girly pop",
+      "rating": 3,
+      "songs": [],
+      "date": "2026-04-15T14:45:41.722Z"
+    },
+    {
+      "userid": "fc4e3399-57f2-4e52-91b9-09191675675c",
+      "id": "6d853093-31d8-4005-bf9a-c4c11da388e4",
+      "title": "Mary",
+      "rating": 3,
+      "songs": [],
+      "date": "2026-04-15T15:14:03.040Z"
     }
   ]
 }

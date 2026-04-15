@@ -8,7 +8,7 @@ const person = {
   employees: new JsonStore('./models/person.json', { employees: {} }),
   collection: 'employees',
 
-  getAppInfo() {
+  getEmployees()  {
     return this.employees.findAll(this.collection);
   },
 

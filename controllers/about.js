@@ -2,19 +2,24 @@
 
 import logger from "../utils/logger.js";
 import person from "../models/person.js";
+import accounts from './accounts.js';
 
 const about = {
   createView(request, response) {
+    const loggedInUser = accounts.getCurrentUser(request);
     logger.info("About page loading!");
     
-    const viewData = {
-      title: "About the Playlist App",
-      person: person.getAppInfo()
-    };
-    
-    logger.info(viewData.person);
-    response.render('about', viewData);   
+    if (loggedInUser) {
+      const viewData = {
+        title: 'About the Playlist App',
+        fullname: loggedInUser.firstName + ' ' + loggedInUser.lastName,
+        employees: person.getEmployees(),
+      };
+      response.render('about', viewData);
+    }
+    else response.redirect('/');    
   },
+
 };
 
 
