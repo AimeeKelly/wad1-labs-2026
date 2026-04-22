@@ -21,7 +21,7 @@ const playlistStore = {
     this.store.addItem(this.collection, id, this.array, song);
   },
 
-    async addPlaylist(playlist, file, response) {
+  async addPlaylist(playlist, file, response) {
     try {
       playlist.picture = await this.store.addToCloudinary(file);
       this.store.addCollection(this.collection, playlist);
@@ -36,7 +36,7 @@ const playlistStore = {
     this.store.removeItem(this.collection, id, this.array, songId);
   },
 
-    async removePlaylist(id, response) {
+  async removePlaylist(id, response) {
     const playlist = this.getPlaylist(id);
 
     if (playlist.picture && playlist.picture.public_id) {

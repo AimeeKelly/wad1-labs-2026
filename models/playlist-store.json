@@ -1,15 +1,15 @@
 {
   "playlistCollection": [
     {
-      "id": "0f761cde-5da3-4ff2-9820-3d8d1dcb94dd",
-      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "c906232a-26dc-4072-b921-559ec5836537",
+      "userid": "6e014154-bab9-4405-b412-5445f11af66d",
       "title": "Homers Playlist",
-      "rating": 4,
+      "rating": 1,
       "songs": [],
-      "date": "2026-04-22T14:44:33.185Z",
+      "date": "2026-04-22T15:41:55.179Z",
       "picture": {
-        "url": "http://res.cloudinary.com/dcmmzfxvs/image/upload/v1776869078/y0abdimougbhaavs3mae.png",
-        "public_id": "y0abdimougbhaavs3mae"
+        "url": "http://res.cloudinary.com/dcmmzfxvs/image/upload/v1776872520/n587rf5uth42eny3b3b8.png",
+        "public_id": "n587rf5uth42eny3b3b8"
       }
     }
   ]

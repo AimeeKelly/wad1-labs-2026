@@ -24,8 +24,15 @@ const userStore = {
     return this.store.findOneBy(this.collection, (user => user.password === password));
   },
   
-  addUser(user) {
-    this.store.addCollection(this.collection, user);
+  async addUser(user,file,response) {
+    try {
+      user.picture = await this.store.addToCloudinary(file);
+      this.store.addCollection(this.collection, user);
+      response();
+    } catch (error) {
+      logger.error("Error processing user:", error);
+      response(error);
+    }
   },
 
 };
