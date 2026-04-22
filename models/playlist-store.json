@@ -1,52 +1,16 @@
 {
   "playlistCollection": [
     {
-      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
-      "id": "e9a477c0-884a-4429-8917-097e65e2b75c",
-      "title": "marge's playlist",
-      "rating": 4,
-      "songs": [],
-      "date": "2026-04-15T14:43:03.389Z"
-    },
-    {
+      "id": "0f761cde-5da3-4ff2-9820-3d8d1dcb94dd",
       "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
-      "id": "d9554a42-a88b-4328-aae7-3dc4db39adf5",
-      "title": "homer's playlist",
-      "rating": 1,
-      "songs": [],
-      "date": "2026-04-15T14:43:31.475Z"
-    },
-    {
-      "userid": "c5dfae5f-e438-431e-b830-85a7955e11c8",
-      "id": "39b10aa3-2f5e-46ec-8a8d-4efe3c7e7ec1",
-      "title": "Rock songs",
-      "rating": 5,
-      "songs": [],
-      "date": "2026-04-15T14:45:07.727Z"
-    },
-    {
-      "userid": "c5dfae5f-e438-431e-b830-85a7955e11c8",
-      "id": "2d0aaa2a-20a9-4d22-8d91-f2ec94376e2f",
-      "title": "Jazzy Tunes",
+      "title": "Homers Playlist",
       "rating": 4,
       "songs": [],
-      "date": "2026-04-15T14:45:16.556Z"
-    },
-    {
-      "userid": "c5dfae5f-e438-431e-b830-85a7955e11c8",
-      "id": "3b8eca4e-4608-4bf3-af5b-0408f2d61e92",
-      "title": "Girly pop",
-      "rating": 3,
-      "songs": [],
-      "date": "2026-04-15T14:45:41.722Z"
-    },
-    {
-      "userid": "fc4e3399-57f2-4e52-91b9-09191675675c",
-      "id": "6d853093-31d8-4005-bf9a-c4c11da388e4",
-      "title": "Mary",
-      "rating": 3,
-      "songs": [],
-      "date": "2026-04-15T15:14:03.040Z"
+      "date": "2026-04-22T14:44:33.185Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/dcmmzfxvs/image/upload/v1776869078/y0abdimougbhaavs3mae.png",
+        "public_id": "y0abdimougbhaavs3mae"
+      }
     }
   ]
 }
